@@ -627,8 +627,8 @@ const drinksHierarchy = {
       'Mocktails & Shakes',
   ],
   'SPIRITS (30ML & 5 SHOTS)': ['Tequila', 'Vodka', 'Gin', 'Rum'],
-  'Non-Alcoholic Beverages': ['Non-Alcoholic Beverages'],
-  'Coffee': ['Coffee'],
+  'NON ALCOHOLIC BEVERAGES': ['Non-Alcoholic Beverages'],
+  'COFFEE (5:30 PM TO 7:00 PM)': ['Coffee'],
 };
 
 function UserMenu() {
