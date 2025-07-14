@@ -2,7 +2,7 @@
   "name": "menu-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://skybreezerestaurant.github.io/",
+  "homepage": "https://skybreezerestaurant.github.io/MENU/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -30,6 +30,7 @@
     "gh-pages": "^6.3.0",
     "globals": "^16.2.0",
     "postcss": "^8.5.6",
+    "rimraf": "^6.0.1",
     "tailwindcss": "^3.4.17",
     "vite": "^7.0.0"
   }
