@@ -2,6 +2,7 @@
   "name": "menu-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://skybreezerestaurant.github.io/MENU",
   "type": "module",
   "scripts": {
     "dev": "vite",
